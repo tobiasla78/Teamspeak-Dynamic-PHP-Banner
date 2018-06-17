@@ -3,7 +3,7 @@ With this script you can easily build a dynamic Teamspeak banner. This script is
 You can print everything you want on the image.
 
 # How it works
-As an Teamspeak-Server administrator you can change the banner to an php file. Thats brings a lot of possibilities for example we can print the current time on the banner every 60 seconds. You can also access the php-image from your browser. Here is a <a href="https://www.renort.net/github/image.php">demo</a>.
+As an Teamspeak-Server administrator you can change the banner to an php file. That brings a lot of possibilities for example we can print the current time on the banner every 60 seconds. You can also access the php-image from your browser. Here is a <a href="https://www.renort.net/github/image.php">demo</a>.
 
 # Set-up
 
